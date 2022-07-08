@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = penthryl@yahoo.com.mx
+	name = Jesus Zendejas Dominguez
